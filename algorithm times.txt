@@ -1,0 +1,4 @@
+Algorithm Times:
+2 ms
+3 ms
+5 ms

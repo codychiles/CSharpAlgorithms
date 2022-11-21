@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\projects\MergeSort69\bin\Debug\net6.0\MergeSort69.exe
+C:\Users\Administrator\Desktop\projects\MergeSort69\bin\Debug\net6.0\MergeSort69.deps.json
+C:\Users\Administrator\Desktop\projects\MergeSort69\bin\Debug\net6.0\MergeSort69.runtimeconfig.json
+C:\Users\Administrator\Desktop\projects\MergeSort69\bin\Debug\net6.0\MergeSort69.dll
+C:\Users\Administrator\Desktop\projects\MergeSort69\bin\Debug\net6.0\MergeSort69.pdb
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.dll
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\refint\MergeSort69.dll
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.pdb
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\MergeSort69.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\projects\MergeSort69\obj\Debug\net6.0\ref\MergeSort69.dll
